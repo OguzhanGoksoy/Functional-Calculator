@@ -1,7 +1,7 @@
-# Fonksiyonel-Hesap-Makinesi
+# Functional-Calculator
 
-Java Fonksiyonel Hesap Makinesi.
+Java Functional Calculator.
 
-Arayüz:Sade bir arayüz vardır.
+Interface: It has a simple interface.
 
-Kod:Kodlar sade bir şekilde yazılmıştır.
+Code: The codes are written simply. 
